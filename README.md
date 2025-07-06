@@ -34,7 +34,7 @@ Open [http://localhost:3000](http://localhost:3000) in your browser.
 
 ## 🌐 Hosted URL
 
-Check it out live at: [https://your-live-url.com](https://your-live-url.com)
+Check it out live at: [Not Hosted yet](https://github.com)
 
 ## 📞 Contact Me
 
