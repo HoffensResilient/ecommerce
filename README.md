@@ -24,8 +24,8 @@ A modern ecommerce platform built with Next.js, Tailwind CSS, and Stripe for sea
 ## 👌 How to Run Locally
 
 ```bash
-git clone https://github.com/yourusername/your-ecommerce-repo.git
-cd your-ecommerce-repo
+git clone https://github.com/HoffensResilient/ecommerce.git
+cd ecommerce
 npm install
 npm run dev
 ````
